@@ -20,5 +20,5 @@
 <br />
 <br />
 
-<summary>:zap: Statistiques Github !</summary>
+### :zap: Statistiques Github !
 <img align="left" alt="Impre-visibme GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Impre-visible" />
