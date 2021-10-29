@@ -2,9 +2,9 @@
 
 [![Site Web](https://img.shields.io/website?label=chevrier.cf&style=for-the-badge&url=https%3A%2F%2Fchevrier.cf)](chevrier.cf)
 
-## Je suis lycéen, et passioné d'informatique!!
+## Je suis lycéen, et passionné d'informatique !
 
-- 🌱 J'adore le dev web 🤣
+- 🌱 J'adore le dev web
 - 🥅 2021 Goals: Gere le JS
 
 
