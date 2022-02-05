@@ -22,4 +22,4 @@
 <br />
 
 ### :zap: Statistiques Github !
-<img align="left" height="175px" width="50%" alt="Impre-visibme GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Impre-visible&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=000&theme=graywhite" /><img align="right" height="175px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Impre-visible&hide_border=true&layout=compact"/>
+<img height="175px" width="50%" alt="Impre-visibme GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Impre-visible&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=000&theme=graywhite" /><img height="175px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Impre-visible&hide_border=true&layout=compact"/>
