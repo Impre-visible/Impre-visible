@@ -1,7 +1,7 @@
 
 ### Salut, je suis Impre'visible👋
 
-[![Site Web](https://img.shields.io/website?label=chevrier.cf&style=plastic&logo=appveyor&url=https%3A%2F%2Fchevrier.cf)](chevrier.cf)
+[![Site Web](https://img.shields.io/website?label=chevrier.cf&style=plastic&url=https%3A%2F%2Fchevrier.cf)](chevrier.cf)
 
 ## Je suis lycéen, et passionné d'informatique !
 
