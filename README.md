@@ -1,3 +1,4 @@
+
 ### Salut, je suis Impre'visible👋
 
 [![Site Web](https://img.shields.io/website?label=chevrier.cf&style=for-the-badge&url=https%3A%2F%2Fchevrier.cf)](chevrier.cf)
@@ -5,7 +6,7 @@
 ## Je suis lycéen, et passionné d'informatique !
 
 - 🌱 J'adore le dev web
-- 🥅 2021 Goals: Gere le JS
+- 🥅 2022 Goals: Apprendre un nouveau langage, peut être le Go, qui sait !
 
 
 ### Languages and Tools:
@@ -21,4 +22,4 @@
 <br />
 
 ### :zap: Statistiques Github !
-<img align="left" alt="Impre-visibme GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Impre-visible&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><img height="137.3px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Impre-visible&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite"/>
+<img align="left" height="175px" width="50%" alt="Impre-visibme GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Impre-visible&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=000&theme=graywhite" /><img height="175px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Impre-visible&hide_border=true&layout=compact"/>
