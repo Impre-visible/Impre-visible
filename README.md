@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impre-visible&label=Profile%20views&color=0e75b6&style=flat" alt="impre-visible" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=impre-visible" alt="impre-visible" /></a> </p>
 
 - 🔭 I’m currently working on [UltimateCoverter](https://github.com/Impre-visible/UltimateConverter)
 
