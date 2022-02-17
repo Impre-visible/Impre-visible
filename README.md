@@ -15,7 +15,7 @@
 
 - 📫 How to reach me : **&lt;h1&gt;Impre'visible&lt;/h1&gt;#2576**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **&lt;h1&gt;Impre'visible&lt;/h1&gt;#2576**</h3>
 <p align="left">
 </p>
 
