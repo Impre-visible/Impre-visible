@@ -24,3 +24,7 @@
 
 <img height="175px" width="50%" alt="Impre-visibme GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Impre-visible&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /><img height="175px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Impre-visible&hide_border=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 <img height="175px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=impre-visible&" alt="impre-visible" />
+
+
+
+![Snake animation](https://github.com/Impre-visible/Impre-visible/blob/output/github-contribution-grid-snake.svg)
