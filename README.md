@@ -5,15 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impre-visible&label=Profile%20views&color=0e75b6&style=flat" alt="impre-visible" /> </p>
 
 
-- 🔭 I’m currently working on [UltimateCoverter](https://github.com/Impre-visible/UltimateConverter)
+- 🔭 I’m currently working on how to dev a VSCode extension
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **JS**
 
 - 👨‍💻 All of my projects are available at [chevrier.cf](https://www.chevrier.cf)
 
-- 💬 Ask me about **basic python**
+- 💬 Ask me about **python**
 
-- 📫 How to reach me : **&lt;h1&gt;Impre'visible&lt;/h1&gt;#2576**
+- 📫 How to reach me : **Impre'visible#2576**
 
 <h3 align="left">Connect with me: &lt;h1&gt;Impre'visible&lt;/h1&gt;#2576</h3>
 <p align="left">
