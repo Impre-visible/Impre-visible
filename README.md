@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning everything about video encoding
 
-- 💬 Ask me about **Python/Javascript/Web**P
+- 💬 Ask me about **Python/Javascript/Web**
 
 - 📫 How to reach me : **Impre'visible#2576**
 
