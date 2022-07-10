@@ -5,13 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impre-visible&label=Profile%20views&color=0e75b6&style=flat" alt="impre-visible" /> </p>
 
 
-- 🔭 I’m currently working on how to dev a VSCode extension
+- 🔭 I’m currently working on Chocolate
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning everything about video encoding
 
-- 👨‍💻 All of my projects are available at [chevrier.cf](https://www.chevrier.cf)
-
-- 💬 Ask me about **python**
+- 💬 Ask me about **Python/Javascript/Web**P
 
 - 📫 How to reach me : **Impre'visible#2576**
 
