@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Chocolate<br><br>👨‍💻 All of my projects are available at chevrier.cf<br><br>💬 Ask me about Python, JS<br><br>📫 How to reach me : Impre'visible#2576
+🔭 I’m currently working on Chocolate<br><br>👨‍💻 All of my projects are available at [chevrier.cf](https://chevrier.cf)<br><br>💬 Ask me about Python, JS<br><br>📫 How to reach me : Impre'visible#2576
 
 
 ## 🌐 Socials:
